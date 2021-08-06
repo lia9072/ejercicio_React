@@ -1,0 +1,10 @@
+html, body{
+    background-color: rgb(245, 245, 245);
+    color: rgb(68, 34, 34);
+}
+button {
+    background-color:rgb(47, 33, 53) ;
+    border: none;
+    padding: 5px;
+    color: aliceblue;
+}
